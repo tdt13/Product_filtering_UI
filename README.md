@@ -12,8 +12,8 @@ This project is a vanilla JS product filtering UI which enables the user to filt
 
 
 ## Demo
-
-Insert gif or link to demo
+Here is a quick demo of the filtering UI in action:
+![App Demo](https://github.com/tdt13/Product_filtering_UI/blob/master/Product_filter_UI.gif?raw=true)
 
 
 ## Installation

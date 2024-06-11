@@ -27,7 +27,7 @@ Install Product_filtering_UI with npm
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/tdt13/Product_filtering_UI/blob/master/App_screenshot_1.PNG?raw=true)
 
 
 ## Tech Stack

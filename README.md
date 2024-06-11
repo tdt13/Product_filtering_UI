@@ -1,16 +1,48 @@
-<h1>Vanilla JS and Tailwind CSS Product Filtering UI</h1>
-<br></br>
 
-This project is a vanilla JS product filtering UI to practice JS and also an introduction to learning Tailwind CSS.
+# Simple Ecommerce Product Filtering UI
 
-<br></br>
-<ul>
-<li>The UI allows users to add or remove products from a shopping cart</li>
-<li>Product filtering using a text search field or a product category toggle</li>
-<li>Products added through object looping and replicates an interaction with an API</li>
-</ul>
+This project is a vanilla JS product filtering UI which enables the user to filter products on a mock ecommerce site by title and item type. This project allowed provided me with vanilla JS and HTML practice and introduced some core front end concepts such as using the map method to loop over products in a mock API and render on the frontend. This project also provided an introduction to styling using Tailwind CSS.
 
-<br></br>
-This project is a tutorial by the excellent Traversy Media on youtube; heres the link;
-https://www.youtube.com/watch?v=Hwyyk1Ueoig
+
+## Features
+
+- Product search filtering
+- Product checkbox filtering
+- Live shopping cart update
+
+
+## Demo
+
+Insert gif or link to demo
+
+
+## Installation
+
+Install Product_filtering_UI with npm
+
+```bash
+  cd Product_filtering_UI
+  npm install
+```
+    
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## Tech Stack
+
+**Client:** HTML JavaScript TailwindCSS
+
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-turner-university-of-leeds-crystallisation/)
+
 

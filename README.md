@@ -46,4 +46,12 @@ Install Product_filtering_UI with npm
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-turner-university-of-leeds-crystallisation/)
 
+## Authors
+
+- [TomTurner](https://www.github.com/tdt13)
+
+## Acknowledgements
+
+ - [Traversty Media - Link to tutorial](https://www.youtube.com/watch?v=Hwyyk1Ueoig&t=1s)
+
 
